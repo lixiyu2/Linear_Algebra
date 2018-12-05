@@ -1,3 +1,11 @@
-# AI Programming with Python Project
+# AI Flowers Classifier
 
-Project code for Udacity's AI Programming with Python Nanodegree program. In this project, students first develop code for an image classifier built with PyTorch, then convert it into a command line application.
+based on
+[This data set](http://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html) developed a set of flower classifications
+
+>* python 3
+>* anaconda
+>* jupyter notebook
+
+##### Model 
+>* Vgg 16
